@@ -115,4 +115,4 @@ pie title AIGP Exam Domain Weightings
 
 ## Recommended Practice Resources
 
-Candidates preparing for the exam can test their knowledge using [AIGP demo practice questions](https://certsclub.com/iapp/aigp-demo-practice-questions) to evaluate readiness and identify domain weak spots before taking the official exam.
+Candidates preparing for the exam can test their knowledge using [AIGP demo practice questions](https://www.certsclub.com) to evaluate readiness and identify domain weak spots before taking the official exam.
